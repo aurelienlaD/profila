@@ -1,0 +1,70 @@
+body {
+	background-color: #023e7d;
+}
+h1 {
+	color: #023e7d;
+	margin: 0 auto;
+	font-size: 50px;
+}
+h2	{
+	color: #023e7d;
+	font-size: 30px;
+}
+
+h3	{
+	color: #023e7d;
+	font-size: 30px;
+}
+h4	{
+	color: #023e7d;
+	font-size: 20px;
+}
+h5	{
+	color: #023e7d;
+	font-size: 20px;
+}
+.card-center{
+
+width: 800px;
+background-color: white;
+border-radius: 50px;
+text-align: center;
+margin: 0 auto;
+box-shadow: 20px;
+}
+
+.avatar	{
+	height: 100px;
+	width: 100px;
+	border-radius: 50% ;
+	object-fit: cover;
+}
+
+.flexbox	{
+	display: flex;
+	width: 800px;
+    background-color: white;
+    border-radius: 50px;
+    text-align: center;
+    margin: 100px;
+    box-shadow: 20px;
+    color: #023e7d;
+	font-size: 15px;
+}
+
+.i{
+	size: 100px;
+}
+
+
+
+
+
+
+
+div {
+	margin: 0 auto;
+	text-align: center;
+	border-radius: 10px;
+
+}
